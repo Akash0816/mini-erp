@@ -120,7 +120,7 @@ export default function App() {
         >
           <Box
             component="img"
-            src="/src/zanqiz-logo.png"
+            src="../zanqiz-logo.png"
             alt="Zanqiz Logo"
             sx={{
               width: 54,
@@ -142,9 +142,7 @@ export default function App() {
               Zanqiz
             </Typography>
 
-            <Typography sx={{ fontSize: 14, color: "#A0A7B0" }}>
-              ERP
-            </Typography>
+            <Typography sx={{ fontSize: 14, color: "#A0A7B0" }}>ERP</Typography>
           </Box>
         </Box>
 
