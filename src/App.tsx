@@ -120,7 +120,7 @@ export default function App() {
         >
           <Box
             component="img"
-            src="../zanqiz-logo.png"
+            src="../public/zanqiz-logo.png"
             alt="Zanqiz Logo"
             sx={{
               width: 54,
